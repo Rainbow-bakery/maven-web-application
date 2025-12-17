@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Dhanvika Pentyala</title>
+<title>DhanvikaTechnologies- Dhanvika Pentyala</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
