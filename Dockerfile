@@ -1,2 +1,2 @@
-FROM FROM tomcat:9.0-jdk11-temurin
+FROM tomcat:9.0-jdk11-temurin
 COPY target/maven-web-application.war /usr/local/tomcat/webapps/maven-web-application.war
